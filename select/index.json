@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "スピカ",
+  "base_artist": "ロクデナシ",
+  "createdAt": "2025-12-02T14:09:13.492912Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スピカ (Remaster for 星の消えた夜に 2022)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_スピカ_(Remaster_for_星の消えた夜に_2022)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_スピカ_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スピカ (Live in BUDOKAN blanc et noir)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_スピカ_(Live_in_BUDOKAN_blanc_et_noir)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "MUCC",
+      "has_synced": false,
+      "path": "select/04_スピカ_MUCC.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/05_スピカ_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スピカ~あなたがいるということ~",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/06_スピカ~あなたがいるということ~_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スピカ〜あなたがいるということ〜",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/07_スピカ〜あなたがいるということ〜_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "nano.RIPE",
+      "has_synced": true,
+      "path": "select/08_スピカ_nano.RIPE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/09_スピカ_坂本真綾.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "May'n",
+      "has_synced": true,
+      "path": "select/10_スピカ_May'n.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "きのこ帝国",
+      "has_synced": false,
+      "path": "select/11_スピカ_きのこ帝国.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Spica/スピカ",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_Spica_スピカ_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "Yui Horie",
+      "has_synced": false,
+      "path": "select/13_スピカ_Yui_Horie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/14_スピカ_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/15_スピカ_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/16_スピカ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "ロクデナシ",
+      "has_synced": true,
+      "path": "select/17_スピカ_ロクデナシ.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "スピカ",
+      "artist": "上白石萌音",
+      "has_synced": true,
+      "path": "select/18_スピカ_上白石萌音.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スピカ",
+      "artist": "ロクデナシ",
+      "has_synced": false,
+      "path": "select/pl_01_スピカ_ロクデナシ.txt"
+    }
+  ]
+}
